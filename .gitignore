@@ -1,0 +1,38 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual Environment
+.venv/
+venv/
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Environment
+.env
+
+# Logs
+logs/
+
+# Generated Content
+output/
+images/
+audio/
+subtitles/
+thumbnails/
+
+# Database
+*.db
+
+# AI Models
+models/
+
+# Python Cache
+.pytest_cache/
+.mypy_cache/
